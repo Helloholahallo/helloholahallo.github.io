@@ -3,27 +3,32 @@
 @import url(font/Larseeit-Extrabold.otf);
 @import url(font/Larsseit-Light.otf);
 
+header {
+	background-color: black;
+	color: white;
+	padding: 3px;
+	text-align: center;
+	font-family: "Larsseit-Light";
+}
+
 body {
- 	background-image: url(images/esl-14.jpg);
+ 	background-image: url(images/esl-cover-1.jpg);
 	background-position: center;
 	background-color: white;
  	text-align: center;
-	margin: 20px;
+ 	margin: 20px;
 }
 
 hr {
-	max-width: 550px;
+	max-width: 500px;
 }
 
 h1 {
 	font-family: "Larsseit-Extrabold";
 	font-size: 1.8em;
 	letter-spacing: 0.3px;
-	color: black;
 	text-transform: uppercase;
 	text-align: center;
-	margin-right: 20em;
-	margin-left: 20em;
 }
 
 h2 {	
@@ -34,8 +39,6 @@ h2 {
 	letter-spacing: 0.2px;
 	color: #575756;
 	text-align: center;
-	margin-right: 30em;
-	margin-left: 30em;
 }
 
 p {	
@@ -43,8 +46,6 @@ p {
 	font-size: 1em;
 	line-height: 1.5em;
 	text-align: center;
-	margin-right: 30em;
-	margin-left: 30em;
 }
 
 a {
