@@ -10,10 +10,11 @@ body {
 
 hr {
 	max-width: 500px;
+	color: grey;
 }
 
 h1 {
-	font-size: 30px;
+	font-size: 24px;
 	text-transform: uppercase;
 	text-align: center;
 	font-weight: bold;
@@ -22,32 +23,33 @@ h1 {
 }
 
 h2 {	
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: normal;
 	font-family: "Times new roman", serif;
 	color: #999999;
 	text-align: center;
-	margin-right: 500px;
-	margin-left: 500px;
+	margin-right: 400px;
+	margin-left: 400px;
 }
 
 p {	
 	font-size: 14px;
 	font-weight: normal;
 	text-align: center;
-	margin-right: 500px;
-	margin-left: 500px;
+	margin-right: 400px;
+	margin-left: 400px;
 }
 
 a {
 	font-size: 14px;
-	color: #FF9999;
+	color: #996666;
 	font-weight: bold;
 	text-align: center;
+	margin: 30px;
 }
 
 ul {	
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: bold;
 	text-align: center;
 	list-style-type: none;
