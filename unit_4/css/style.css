@@ -1,0 +1,73 @@
+@import url(font/LeagueGothic-Regular.otf);
+@import url(font/Larsseit-Bold.otf);
+@import url(font/Larseeit-Extrabold.otf);
+@import url(font/Larsseit-Light.otf);
+
+body {
+ 	background-image: url(images/esl-14.jpg);
+	background-position: center;
+	background-color: white;
+ 	text-align: center;
+	margin: 20px;
+}
+
+hr {
+	max-width: 550px;
+}
+
+h1 {
+	font-family: "Larsseit-Extrabold";
+	font-size: 1.8em;
+	letter-spacing: 0.3px;
+	color: black;
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 20em;
+	margin-left: 20em;
+}
+
+h2 {	
+	font-family: "Larsseit-Light";
+	font-weight: lighter;
+	font-size: 1.2em;
+	line-height: 1.5em;
+	letter-spacing: 0.2px;
+	color: #575756;
+	text-align: center;
+	margin-right: 30em;
+	margin-left: 30em;
+}
+
+p {	
+	font-family: Times;
+	font-size: 1em;
+	line-height: 1.5em;
+	text-align: center;
+	margin-right: 30em;
+	margin-left: 30em;
+}
+
+a {
+	font-family: "Larsseit-Bold";
+	font-size: 1em;
+	line-height: 1.5em;
+	letter-spacing: 0.5px;
+	color: #f79f79;
+	text-align: center;
+	margin: 30px;
+}
+
+ul {	
+	font-family: "Larsseit-Bold";
+	font-size: 1em;
+	line-height: 2em;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+	text-align: center;
+	list-style-type: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
