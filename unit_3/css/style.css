@@ -1,0 +1,59 @@
+body {
+ 	background-image: url(images/esl-14.jpg);
+	background-position: center;
+	background-color: white;
+ 	font-family: Arial, sans-serif;
+ 	text-align: center;
+	color: 000;
+	margin: 15px;
+}
+
+hr {
+	max-width: 500px;
+}
+
+h1 {
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+h2 {	
+	font-size: 22px;
+	font-weight: normal;
+	font-family: "Times new roman", serif;
+	color: #999999;
+	text-align: center;
+	margin-right: 500px;
+	margin-left: 500px;
+}
+
+p {	
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+	margin-right: 500px;
+	margin-left: 500px;
+}
+
+a {
+	font-size: 14px;
+	color: #FF9999;
+	font-weight: bold;
+	text-align: center;
+}
+
+ul {	
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	list-style-type: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
