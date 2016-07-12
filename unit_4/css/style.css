@@ -3,19 +3,11 @@
 @import url(font/Larseeit-Extrabold.otf);
 @import url(font/Larsseit-Light.otf);
 
-header {
-	background-color: black;
-	color: white;
-	padding: 3px;
-	text-align: center;
-	font-family: "Larsseit-Light";
-}
-
 body {
 	background-color: white;
  	text-align: center;
- 	padding: 0px 100px;
-}
+ 	padding: 0px 200px;
+ }
 
 hr {
 	max-width: 500px;
@@ -23,7 +15,7 @@ hr {
 
 h1 {
 	font-family: "Larsseit-Extrabold";
-	font-size: 1.8em;
+	font-size: 1.6em;
 	letter-spacing: 0.3px;
 	text-transform: uppercase;
 	text-align: center;
@@ -37,6 +29,34 @@ h2 {
 	letter-spacing: 0.2px;
 	color: #575756;
 	text-align: center;
+}
+
+h3 {
+	background-color: white;
+	color: black;
+	padding: 3px;
+	text-align: center;
+	font-family: "Larsseit-Light";
+}
+
+h4 {
+	font-family: "Larsseit-Light";
+	font-size: 3em;
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 0px 100px;
+	color: white;
+}
+
+h5 {
+	font-family: "Larsseit-Light";
+	font-weight: lighter;
+	font-size: 1.4em;
+	letter-spacing: 0.2px;
+	color: white;
+	padding: 0px 100px;
+	text-align: left;
 }
 
 p {	
@@ -53,7 +73,7 @@ a {
 	letter-spacing: 0.5px;
 	color: #f79f79;
 	text-align: center;
-	margin: 30px;
+	padding: 0px 30px;
 }
 
 ul {	
@@ -67,7 +87,7 @@ ul {
 }
 
 img {
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
 }
 
@@ -78,6 +98,6 @@ section {
 #hero {
 	background: url(../images/esl-cover-1.jpg) no-repeat center top scroll;
 	background-size: cover;
-	padding: 250px 0px;
+	padding: 200px 0px;
 }
 
