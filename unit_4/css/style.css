@@ -12,11 +12,9 @@ header {
 }
 
 body {
- 	background-image: url(images/esl-cover-1.jpg);
-	background-position: center;
 	background-color: white;
  	text-align: center;
- 	margin: 20px;
+ 	padding: 0px 100px;
 }
 
 hr {
@@ -72,3 +70,14 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+section {
+	background-color: white;
+}
+
+#hero {
+	background: url(../images/esl-cover-1.jpg) no-repeat center top scroll;
+	background-size: cover;
+	padding: 250px 0px;
+}
+
